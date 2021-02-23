@@ -1,6 +1,6 @@
 import xml2js from 'xml2js'
 
-export const BLING_KEY = '25955d7024180c4150055e3d222eff001a225f8f9c838b1190ce91b013a88ff9a34677d7'
+export const BLING_KEY = ''
 export const BLING_URL_POST = 'https://bling.com.br/Api/v2/pedido/?apikey='
 export const BLING_URL_GET = 'https://bling.com.br/Api/v2/pedidos/json/?apikey='
 
